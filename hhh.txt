@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>مودات Xenoverse 2</title>
+
+<style>
+body{
+font-family: Arial;
+background:#0f172a;
+color:white;
+text-align:center;
+margin:0;
+}
+
+header{
+background:#020617;
+padding:25px;
+font-size:28px;
+}
+
+.container{
+margin-top:60px;
+}
+
+.card{
+background:#1e293b;
+width:300px;
+margin:auto;
+padding:25px;
+border-radius:15px;
+box-shadow:0 0 20px rgba(0,0,0,0.5);
+}
+
+button{
+background:#22c55e;
+border:none;
+padding:15px 25px;
+font-size:18px;
+border-radius:10px;
+cursor:pointer;
+color:white;
+}
+
+button:hover{
+background:#16a34a;
+}
+
+footer{
+margin-top:80px;
+padding:20px;
+background:#020617;
+font-size:14px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+موقع تحميل مودات Dragon Ball Xenoverse 2
+</header>
+
+<div class="container">
+
+<div class="card">
+
+<h2>حزمة مودات</h2>
+
+<p>
+المجلد يحتوي على 6 مجلدات بداخلها ملفات X2M
+</p>
+
+<a href="<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>مودات Xenoverse 2</title>
+
+<style>
+body{
+font-family: Arial;
+background:#0f172a;
+color:white;
+text-align:center;
+margin:0;
+}
+
+header{
+background:#020617;
+padding:25px;
+font-size:28px;
+}
+
+.container{
+margin-top:60px;
+}
+
+.card{
+background:#1e293b;
+width:300px;
+margin:auto;
+padding:25px;
+border-radius:15px;
+box-shadow:0 0 20px rgba(0,0,0,0.5);
+}
+
+button{
+background:#22c55e;
+border:none;
+padding:15px 25px;
+font-size:18px;
+border-radius:10px;
+cursor:pointer;
+color:white;
+}
+
+button:hover{
+background:#16a34a;
+}
+
+footer{
+margin-top:80px;
+padding:20px;
+background:#020617;
+font-size:14px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+موقع تحميل مودات Dragon Ball Xenoverse 2
+</header>
+
+<div class="container">
+
+<div class="card">
+
+<h2>حزمة مودات</h2>
+
+<p>
+المجلد يحتوي على 6 مجلدات بداخلها ملفات X2M
+</p>
+
+<a href="">https://drive.google.com/file/d/1M6uslGW4PKgblDketp1WsFyVDY7N1OdL/view?usp=drive_link
+<button>
+تحميل المودات
+</button>
+</a>
+
+</div>
+
+</div>
+
+<footer>
+2026 © جميع الحقوق محفوظة
+</footer>
+
+</body>
+</html>">
+<button>
+تحميل المودات
+</button>
+</a>
+
+</div>
+
+</div>
+
+<footer>
+2026 © جميع الحقوق محفوظة
+</footer>
+
+</body>
+</html>
